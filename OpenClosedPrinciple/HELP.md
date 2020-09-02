@@ -1,8 +1,3 @@
-# Read Me First
-The following was discovered as part of building this project:
-
-* The original package name 'com.walnut-it.replacer' is invalid and this project uses 'com.walnutit.replacer' instead.
-
 # Getting Started
 
 ### Reference Documentation
